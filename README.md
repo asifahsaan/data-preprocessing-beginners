@@ -11,13 +11,20 @@ Welcome! This repository is designed to help **beginners** learn how to clean an
 
 ## 🔍 What’s Inside
 
-| Notebook                   | Description                                 |
-|---------------------------|---------------------------------------------|
-| 01_intro_to_dataset       | Load and explore the dataset                |
-| 02_missing_values         | Handle missing data in numeric & categorical|
-| 03_numeric_features       | Normalize and transform numeric data        |
-| 04_categorical_features   | Encode categorical variables                |
-| 05_building_pipeline      | Create a reusable pipeline using sklearn    |
+| Notebook                            | Description                                  |
+|------------------------------------|----------------------------------------------|
+| 01_intro_to_dataset                | Load and explore the dataset                 |
+| 02_handling_missing_values         | Use SimpleImputer and handle missing data    |
+| 03_scaling_features                | Standardize and normalize numeric columns    |
+| 04_encoding_categorical_variables | One-hot and ordinal encode categorical data  |
+| 05_binning_numerical_features      | Discretize numeric data using KBinsDiscretizer |
+| 06_polynomial_features             | Create interaction and polynomial terms      |
+| 07_custom_transformations          | Apply custom logic via FunctionTransformer   |
+| 08_dimensionality_reduction        | Reduce features with PCA and TSNE            |
+| 09_feature_selection_filter_methods | Use SelectKBest, chi2, etc.                 |
+| 10_feature_selection_wrapper_methods| Use RFE and similar methods                 |
+| 11_feature_selection_embedded_methods| Feature importance from tree/L1 models    |
+| 12_combining_with_pipeline         | Build full sklearn pipelines                 |
 
 ---
 
