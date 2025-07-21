@@ -68,3 +68,45 @@ This repository demonstrates the following common preprocessing techniques, step
 ```bash
 git clone https://github.com/yourusername/data-preprocessing-beginners.git
 cd data-preprocessing-beginners
+
+🌐 Run Online (No Installation Required)
+Launch notebooks instantly with Binder:
+```
+
+
+Preview on GitHub via nbviewer: <br>
+👉 https://nbviewer.org/github/asifahsaan/data-preprocessing-beginners
+
+## 📚 Techniques Covered
+- Missing value imputation (SimpleImputer)
+- Scaling (StandardScaler, MinMaxScaler)
+- Categorical encoding (OneHotEncoder, OrdinalEncoder)
+- Binning numeric features (KBinsDiscretizer)
+- Polynomial feature generation
+- Custom transformations (FunctionTransformer, custom classes)
+- Dimensionality reduction (PCA, TSNE)
+- Feature selection (Filter, Wrapper, Embedded)
+- Pipeline creation with ColumnTransformer and Pipeline
+
+## 📦 Requirements
+```
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+```
+
+## ✅ Final Checklist
+ - Public and easy to clone
+ - Beginner-focused explanations
+ - All notebooks tested end-to-end
+ - Small sample dataset included
+ - Binder support for interactive usage
+ - MIT License (optional but recommended)
+
+## 🙌 Contributions
+Pull requests, issues, and suggestions are welcome. Feel free to fork and build on top of this!
+
+## 📜 License
+This project is licensed under the MIT License — use it freely and help others learn too.
