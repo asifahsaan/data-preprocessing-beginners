@@ -63,14 +63,37 @@ This repository demonstrates the following common preprocessing techniques, step
 
 ## ▶️ Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/data-preprocessing-beginners.git
-cd data-preprocessing-beginners
-
-🌐 Run Online (No Installation Required)
+### Option 1: 🌐 Run Online (No Installation Required)
 Launch notebooks instantly with Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asifahsaan/data-preprocessing-beginners/main)
+
+### Option 2: 💻 Local Installation
+
+#### Clone the repository
+```bash
+git clone https://github.com/asifahsaan/data-preprocessing-beginners.git
+cd data-preprocessing-beginners
+```
+
+#### Install dependencies
+```bash
+# Using pip
+pip install -r requirements.txt
+
+# OR using conda
+conda env create -f environment.yml
+conda activate data-preprocessing
+```
+
+#### Launch Jupyter
+```bash
+jupyter notebook notebooks/
+```
+
+#### Quick Demo
+```bash
+python quick_start.py
 ```
 
 

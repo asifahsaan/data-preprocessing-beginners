@@ -1,0 +1,26 @@
+id,age,salary,education,experience,department,city,has_certification,performance_score,join_date,satisfaction_rating,gender,marital_status,num_dependents,work_hours_per_week
+1,25,45000,Bachelor,2,Engineering,New York,Yes,3.2,2022-01-15,4,Female,Single,0,40
+2,32,,Master,8,Marketing,San Francisco,No,4.1,2019-06-20,5,Male,Married,2,45
+3,28,52000,Bachelor,4,Sales,,Yes,3.8,2021-03-10,,Female,Single,1,38
+4,,65000,PhD,12,Engineering,Chicago,Yes,4.5,2018-11-05,4,Male,Married,3,50
+5,35,48000,,5,HR,Boston,No,2.9,2020-08-14,3,Female,Divorced,1,42
+6,29,58000,Master,6,Finance,Seattle,Yes,,2019-12-03,5,Male,Single,0,44
+7,42,72000,Bachelor,15,Engineering,Austin,Yes,4.2,2017-04-18,4,Male,Married,2,48
+8,26,,High School,1,Sales,Denver,No,3.1,2023-02-28,3,,Single,0,35
+9,38,61000,Master,10,Marketing,Portland,Yes,3.9,2018-09-12,4,Female,Married,2,41
+10,31,49000,Bachelor,,HR,Miami,No,3.5,2021-07-22,3,Male,Single,1,39
+11,,53000,Master,7,Finance,Dallas,Yes,4.0,2020-01-30,5,Female,Divorced,1,43
+12,27,46000,Bachelor,3,Sales,Las Vegas,No,3.3,2022-05-17,,Male,Single,0,37
+13,45,78000,PhD,18,Engineering,Phoenix,Yes,4.6,2015-08-09,5,Female,Married,3,52
+14,33,55000,,9,Marketing,Atlanta,Yes,3.7,2019-10-25,4,Male,Divorced,1,40
+15,24,,High School,0.5,HR,Orlando,No,2.8,2023-06-12,2,Female,Single,0,32
+16,36,62000,Master,11,Finance,Tampa,Yes,4.1,2018-03-14,4,Male,Married,2,46
+17,30,51000,Bachelor,5,Sales,,No,3.6,2021-11-08,3,Female,Single,1,38
+18,,59000,Master,8,Engineering,San Diego,Yes,4.3,2019-07-19,5,Male,Married,2,47
+19,28,47000,Bachelor,4,Marketing,Indianapolis,No,,2022-01-05,3,Female,Single,0,36
+20,41,69000,PhD,16,Finance,Columbus,Yes,4.4,2017-12-20,4,,Divorced,2,49
+21,26,44000,Bachelor,2,HR,Charlotte,No,3.0,2022-09-14,3,Male,Single,0,34
+22,34,57000,,7,Sales,Detroit,Yes,3.8,2020-04-02,4,Female,Married,1,41
+23,37,64000,Master,12,Engineering,Nashville,Yes,4.2,2018-05-16,5,Male,Married,3,45
+24,29,,Bachelor,4,Marketing,Milwaukee,No,3.4,2021-08-30,3,Female,Single,1,37
+25,43,71000,PhD,17,Finance,Kansas City,Yes,4.5,2016-11-11,4,Male,Divorced,2,50
